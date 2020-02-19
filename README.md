@@ -1,1 +1,1 @@
-This is Brysons's first git project!
+This is Bryson's first git project!
